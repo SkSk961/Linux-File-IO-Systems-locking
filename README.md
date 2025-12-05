@@ -73,7 +73,7 @@ int main(int argc, char *argv[]) {
 ```
 ## Output
 
-<img width="585" height="112" alt="image" src="https://github.com/user-attachments/assets/5e8ff70c-b067-4ae1-bc88-a547c161137a" />
+![Alt text](image.png)
 
 
 
@@ -149,7 +149,7 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-![Alt text](image.png)
+
 
 
 ![Alt text](image-1.png)
