@@ -149,13 +149,11 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-<img width="959" height="547" alt="image" src="https://github.com/user-attachments/assets/8e0c797f-b645-46dd-81eb-414d4d5d5680" />
+![Alt text](image.png)
 
 
-<img width="946" height="431" alt="image" src="https://github.com/user-attachments/assets/b5f0a11a-7f11-4f89-81c0-8d2bcb2369f8" />
+![Alt text](image-1.png)
 
-
-<img width="894" height="370" alt="image" src="https://github.com/user-attachments/assets/fdbfea4d-afa7-494e-bd91-d7377b50c685" />
 
 
 # RESULT:
